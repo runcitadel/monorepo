@@ -1,0 +1,15 @@
+[submodule "packages/sdk"]
+	path = packages/sdk
+	url = https://github.com/runcitadel/sdk
+[submodule "packages/dashboard"]
+	path = packages/dashboard
+	url = https://github.com/runcitadel/dashboard
+[submodule "packages/manager"]
+	path = packages/manager
+	url = https://github.com/runcitadel/manager
+[submodule "packages/middleware"]
+	path = packages/middleware
+	url = https://github.com/runcitadel/middleware
+[submodule "packages/utils"]
+	path = packages/utils
+	url = https://github.com/runcitadel/utils
